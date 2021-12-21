@@ -8,5 +8,6 @@ This Project is a clone version of a [Tesla Website](https://www.tesla.com/) wit
 *  [React-redux/Redux-toolkit](https://redux-toolkit.js.org/)
 *  [React Reveal](https://www.react-reveal.com/)
 *  [Styled Components](https://styled-components.com/)  
+*  [MaterialUI](https://mui.com/)
 
 Here is the [live link](https://tesla-clone-cyril.netlify.app/) to the project.
